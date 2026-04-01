@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" width="240" height="60">
+  <!-- Background: transparent -->
+  
+  <!-- Flame icon -->
+  <g transform="translate(0, 4)">
+    <path d="M22 52 C10 52 4 43 4 35 C4 27 9 22 13 18 C13 24 16 27 19 27 C16 22 17 13 22 8 C22 16 26 19 28 22 C30 18 29 13 27 8 C34 14 38 22 38 30 C38 38 34 45 29 49 C30 45 28 41 25 40 C26 44 25 49 22 52Z" 
+          fill="#E8322C"/>
+    <path d="M22 48 C16 48 12 43 12 38 C12 34 14 31 17 29 C17 33 19 35 21 35 C19 32 20 27 22 24 C22 29 25 31 26 33 C27 30 27 27 25 24 C29 27 32 32 32 37 C32 42 28 47 24 49 C24 46 23 43 21 42 C21 45 21 47 22 48Z" 
+          fill="#FF6B55" opacity="0.7"/>
+  </g>
+  
+  <!-- Wordmark: We Roast You -->
+  <text x="48" y="38" 
+        font-family="'Space Grotesk', 'Arial Black', sans-serif" 
+        font-size="26" 
+        font-weight="800" 
+        letter-spacing="-0.8"
+        fill="#0D0D0D">We <tspan fill="#E8322C">Roast</tspan> You</text>
+</svg>
