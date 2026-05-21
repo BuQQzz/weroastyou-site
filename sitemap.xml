@@ -115,8 +115,25 @@
     <priority>0.7</priority>
   </url>
   <url>
+<<<<<<< HEAD
     <loc>https://weroastyou.com/blog/why-your-optometrist-or-eye-care-practice-doesnt-show-up-on-google.html</loc>
     <lastmod>2026-05-21</lastmod>
+=======
+    <loc>https://weroastyou.com/blog/why-your-tutoring-or-educational-services-business-doesnt-show-up-on-google.html</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weroastyou.com/blog/why-your-real-estate-agent-business-doesnt-show-up-on-google.html</loc>
+    <lastmod>2026-05-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://weroastyou.com/blog/why-your-florist-or-flower-shop-doesnt-show-up-on-google.html</loc>
+    <lastmod>2026-05-16</lastmod>
+>>>>>>> deaa1a2bab37ce48cb48691fa058fc2c16566e6c
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
